@@ -6,4 +6,9 @@ int main() {
 	std::cin >> name; // туп ой ка мент
 	std::cout << "Hello world form " << name << std::endl; // другой камент
 	return 0;
+<<<<<<< HEAD
 }
+=======
+	////////// antother changedition
+}
+>>>>>>> cd10fc6 (hello world antoher changedition)
