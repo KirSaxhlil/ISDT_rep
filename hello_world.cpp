@@ -1,10 +1,9 @@
 #include <iostream>
-using namespace std;
-
+////// super comment //////
 int main() {
 	char name[20];
-	cout << "What's your name?" << endl;
-	cin >> name;
-	cout << "Hello world form " << name << endl;
+	std::cout << "What's your name?" << std::endl; // my comment
+	std::cin >> name; // stup id co mment
+	std::cout << "Hello world form " << name << std::endl; // another comment
 	return 0;
 }
